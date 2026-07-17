@@ -56,7 +56,7 @@ Few-shot prompting isn't a guaranteed improvement — its impact depends on how 
 
 ## Demo Video
 
-[Link to LinkedIn video walkthrough](#) <!-- replace with your actual LinkedIn post link -->
+[Link to LinkedIn video walkthrough](https://www.linkedin.com/posts/muhammad-abubakar476_promptengineering-ai-internship-ugcPost-7483932014182854657-ZTyx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGBrBqsBKmAJqRrR7agFwG_FujXRHFQF5QI)
 
 ---
 *Submitted as part of the Neurofive Solutions internship program.*
