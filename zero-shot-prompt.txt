@@ -1,0 +1,18 @@
+Classify each of the following customer messages as one of: Complaint, Question, or Praise.
+
+1. "My order still hasn't arrived after 2 weeks, and no one has responded to my emails. This is unacceptable."
+2. "How do I change the email address linked to my account?"
+3. "Oh great, another update that breaks everything. Love it."
+4. "Can I get a refund for an item that arrived damaged?"
+5. "Not sure if this is a bug or if I'm just missing a setting somewhere."
+6. "I've been charged twice for the same order and nobody is helping me fix it."
+7. "Your product is fine I guess, but why does support take 3 days to reply?"
+8. "This used to be my favorite app, but the last update keeps crashing every time I open it."
+9. "Been a customer for 5 years, first time I've ever been this frustrated."
+10. "Fixed already? Wow."
+
+Respond in exactly this format, one line per message:
+1. Label
+2. Label
+...
+10. Label
